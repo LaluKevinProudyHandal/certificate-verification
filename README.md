@@ -38,6 +38,6 @@ This system successfully demonstrates:
 - Fraud prevention through participant checking
 
 ## Author
-[Your Name] - [Your NIM]
+[Lalu Kevin Proudy Handal] - [23/515833/TK/56745]
 Final Project - Blockchain Technology Course
 Universitas Gadjah Mada - 2025
